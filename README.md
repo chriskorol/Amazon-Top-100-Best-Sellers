@@ -35,8 +35,8 @@ Through this project, several key lessons were learned:
 - **Key Performance Indicators:** The addition of the 'Frequency in Top' column emphasized the importance of monitoring recurring success indicators to assess market trends.
 - **DAX Code Application:** Applied DAX code to enhance data calculations and derive additional insights in the Power BI dashboard, further boosting the analytical capabilities.
 
-![Interactive 2 page Dashboard, *Screenshot*](https://github.com/chriskorol/Amazon-Top-100-Best-Sellers/blob/main/Dashboard.png)
-![Interactive 2 page Dashboard, *Screenshot2*](https://github.com/chriskorol/Amazon-Top-100-Best-Sellers/blob/main/Screenshot%202025-02-23%20at%2020.19.53.png)
+![Interactive 2 page Dashboard, *Screenshot*](https://github.com/chriskorol/Amazon-Top-100-Best-Sellers/blob/main/images/Dashboard.png)
+![Interactive 2 page Dashboard, *Screenshot2*](https://github.com/chriskorol/Amazon-Top-100-Best-Sellers/blob/main/images/Screenshot%202025-02-23%20at%2020.19.53.png)
 ## Insights
 
 
@@ -129,7 +129,7 @@ plt.show()
 
 ```
 
-![One of three WordClouds](https://github.com/chriskorol/Amazon-Top-100-Best-Sellers/blob/main/Business%20Presentation.png)
+![One of three WordClouds](https://github.com/chriskorol/Amazon-Top-100-Best-Sellers/blob/main/images/Business%20Presentation.png)
 
 ## Conclusion
 
